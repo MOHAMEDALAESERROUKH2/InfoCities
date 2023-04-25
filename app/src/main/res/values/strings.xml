@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">InfoCities</string>
+    <string name="casaSmallDesc">Casablanca (en berbère : Anfa, litt. « colline », en arabe : الدار البيضاء4) est une ville située au centre-oucest du Maroc.</string>
+    <string name="casaFullDesc">Capitale économique du pays5,6 et plus grande ville du Maghreb par la population, elle est située sur la côte atlantique, à environ 80 km au sud de Rabat, la capitale administrative.
+
+Sur le plan administratif, son territoire — à distinguer de celui de l\\\'agglomération incluant sa banlieue — d\\\'une superficie de 384 km23, correspond à celui de la préfecture de Casablanca, chef-lieu de la région Casablanca-Settat. Depuis le retour au principe de l\\\'unité de la ville en 20027, il est composé d\\\'une part de la municipalité de Casablanca, divisée en 16 arrondissements répartis dans 8 préfectures d\\\'arrondissement(s), et d\\\'autre part de la minuscule municipalité du Méchouar de Casablanca placée en son centre et où siège un palais royal8.
+
+Lors du recensement de 2014, sa population était de 3 359 818 habitants2, faisant d\\\'elle la ville la plus peuplée du Royaume, et celle de son agglomération s\\\'élevait à 4 270 750 habitants2.
+
+Rendue légendaire par le film Casablanca (1942), la ville possède un patrimoine architectural moderne important, dû à la diversité architecturale qu\\\'elle a connue pendant le xxe siècle, où elle était alors le « laboratoire de la modernité »9 d\\\'une nouvelle génération d\\\'architectes qui débarquaient directement des bancs de l\\\'École nationale supérieure des beaux-arts de Paris.
+
+Casablanca possède certaines des plus grandes mosquées de la planète, notamment la mosquée Hassan-II, véritable symbole de la ville.
+
+Ville martyre, 440 ans après avoir été rasée par les Portugais, Casablanca fut quasiment détruite lors du bombardement de la ville par les Français en 1907 lors de l\\\'insurrection de Casablanca faisant des milliers de victimes. La ville fut également assiégée par l\\\'armée pendant les émeutes de 1981.
+
+Les habitants de la ville se nomment Bidawa ou Casawa en arabe marocain et Ayt Kaẓa en berbère.</string>
+    <string name="casaWebSite"> http://www.casablancacity.ma/</string>
+    <string name="rabatSmallDesc">En arabe : الرباط. C\'est la capitale du Maroc. La ville est située au bord de l\'Atlantique au nord-ouest du Maroc</string>
+    <string name="rabatFullDesc">
+        A 40 km au sud de Kénitra et 240 km au sud-ouest de Tanger et du détroit de Gibraltar, et à 87 km au nord-est de Casablanca.
+        Elle est séparée de la ville de Salé au niveau de l\'embouchure du Bouregreg, d\'où leur surnom de « villes jumelles ».\n
+
+        Sur le plan administratif, son territoire — à distinguer de celui de l’agglomération rabataise incluant sa banlieue —
+        d\'une superficie de 118,5 km2, correspond à celui de la préfecture de Rabat qui, depuis le retour au principe de l\'unité de la ville en 20028,
+        est composée d\'une part de la commune urbaine de Rabat, divisée en cinq arrondissements ;
+        d\'autre part de la commune urbaine de Touarga, où se situe le palais royal, enclavée dans la première. Lors du dernier recensement de 2014,
+        sa population était de 577 827 habitants5, faisant de Rabat la 7e plus grande ville du royaume.
+        \n
+        Avec sa banlieue, elle forme la deuxième plus grande agglomération du pays après celle de Casablanca.
+\n
+        La ville a été fondée en 1150 par les Almohades, qui y édifièrent une citadelle (devenue la kasbah des Oudayas), une mosquée et une résidence.
+        C’était alors ce qu\'on appelle un ribat (« forteresse »). Le nom actuel vient de Ribat Al Fath, « le Camp de la Victoire ».
+       \n
+        Plus tard, le petit-fils d\'Al-Mūmin – Ya\'qub al-Mansūr – agrandit et compléta la ville, l\'entourant notamment de murailles.
+
+        Par la suite, elle servit de base aux expéditions almohades en Andalousie.
+        \n
+        Après 1269, quand les Mérinides choisirent Fès comme capitale, Rabat entra dans une période de déclin.
+
+        Ainsi, l\'explorateur morisque Hassan al-Wazzan a rapporté qu\'il n\'y subsistait que 100 maisons habitées en 1515. En 1609, à la suite du décret d’expulsion de Philippe III, 13 000 Morisques y trouvèrent refuge, revitalisant ainsi la ville12. Jusqu\'au xixe siècle, Rabat est connue sous le nom de Salé-le-Neuf.
+        \n
+        En 1912, Lyautey fit de Rabat le siège du résident général et la capitale du protectorat français au Maroc.
+        \n
+        En 1956, à l’indépendance du Maroc, la ville resta la capitale du pays.
+        \n
+        Depuis 2012, un ensemble de sites de Rabat est inscrit sur la liste du patrimoine mondial de l\'Unesco.
+        La ville a aussi reçu la deuxième place du classement CNN des « Meilleures destinations touristiques de 2013 ».
+
+    </string>
+    <string name="siteRabat">https://www.infostourismemaroc.com/ville/tourisme-maroc-ville-Rabat.html</string>
+
+    <string name="tangerSmallDesc">Tanger En arabe : طنجة est une ville du Nord du Maroc, première ville économique du Maroc, capitale de la région de Tanger-Tétouan-Al Hoceïma. </string>
+    <string name="tangerFullDesc">
+
+    Située à l\'extrémité du Nord-Ouest du pays sur le détroit de Gibraltar.
+
+    La ville se trouve à 14 kilomètres de la côte espagnole.
+
+    Sa population s\'élève à 947 952 habitants selon le dernier recensement de 20142.
+    Il existe une importante diaspora tangéroise dans le monde, notamment dans le sud de l\'Espagne et dans le Benelux.
+    Une grande partie des Tangérois est originaire du Rif voisin (Jbala et Rifains). Tanger est actuellement en expansion démographique.
+
+    D\'abord établie sur la colline de la kasbah,
+    la ville de Tanger s\'est progressivement étendue sur les massifs la bordant à l\'ouest en direction du cap Spartel (plateau du Marshan, Vieille Montagne) puis,
+    au long de la plage, en direction du cap Malabata. En dépit de ces reliefs, son site ne présente pas de réseau hydrographique notable.
+    </string>
+    <string name="siteTanger">http://www.tangerport.com/fr/tourisme/</string>
+
+    <string name="oujdaSmallDesc">Oujda en arabe : وجدة, est une ville située dans le Nord-Est du Maroc, </string>
+    <string name="oujdaFullDesc">
+    bordée au nord et a l\'ouest par le Rif oriental dont elle est à la limite. Elle est le chef-lieu de la préfecture d\'Oujda-Angad, dans la région de l\'Oriental.
+    Sa proximité avec le port de Nador, autre grande ville de l\'Oriental, et avec l\'Algérie lui permet d\'être un point de passage entre le Maroc et l\'Algérie.
+    La ville compte une population de 410 000 habitants, selon le dernier recensement général de la population en 2014, faisant d\'elle la 10e plus grande ville du Maroc.
+    Oujda fut fondée par Ziri Ibn Attia, vers 994 au centre de la plaine d’Angad.
+    </string>
+    <string name="siteOujda">https://www.infostourismemaroc.com/ville/tourisme-maroc-ville-Oujda.html/</string>
+
+    <string name="meknesSmallDesc">Meknès en arabe : مكناس est une ville du nord du Maroc fondée en 711 par la tribu amazighe algérienne des Meknassas,
+qui lui a donné son nom. </string>
+    <string name="meknesFullDesc">
+Elle est l\'ancien chef-lieu de la région administrative de Meknès-Tafilalet et actuellement l\'un des deux pôles urbains de la région Fès-Meknès dans le nord du pays.
+Il s\'agit de l\'une des quatre villes impériales du Maroc et la troisième plus grande ville du royaume selon le recensement de 2014.
+Elle fut la capitale du Maroc durant le règne d\'Ismaïl ben Chérif (1672-1727). La ville historique de Meknès est placée sous la protection de l\'UNESCO depuis 1996.
+    </string>
+    <string name="siteMeknes">https://visit-meknes.com/fr/</string>
+
+    <string name="oranSmallDesc">Oran en arabe : وهران, est la deuxième plus grande ville d’Algérie et une des plus importantes villes du Maghreb. </string>
+    <string name="oranFullDesc">
+C\'est une ville portuaire de la mer Méditerranée, située dans le nord-ouest de l\'Algérie, à 432 km de la capitale Alger, et le chef-lieu de la wilaya du même nom,
+en bordure du golfe d\'Oran.
+
+La ville est située au fond d\'une baie ouverte au nord et dominée directement à l\'ouest par la montagne de l\'Aïdour (ou Murdjajo), d\'une hauteur de 580 mètres,
+ainsi que par le plateau de Moulay Abd al Qadir al-Jilani. L\'agglomération s\'étend de part et d\'autre du ravin de l\'oued Rhi, maintenant couvert.
+
+Fondée en 902 par les Andalous, Oran connaît une succession de dynasties arabo-berbères.
+Occupée par les Espagnols en 1509, elle est définitivement reconquise en 1792 par le bey Mohammed El Kebir et devient le siège du beylik de l\'Ouest.
+Pendant la colonisation française, elle connaît un développement rapide, et devient la deuxième ville d\'Algérie.
+Après l\'indépendance, elle demeure la capitale économique de l\'ouest du pays et le principal centre financier, commercial et industriel.
+
+En 2008, la commune comptait 609 940 habitants, alors que la population de l\'agglomération oranaise était d\'environ 1 000 000 habitants.
+    </string>
+    <string name="siteOran">https://fr-fr.facebook.com/OranVilleOfficiel/</string>
+
+    <string name="algerSmallDesc">Alger en arabe : الجزائر , est la capitale de l\'Algérie et en est la ville la plus peuplée.</string>
+    <string name="algerFullDesc">
+        Située au bord de la mer Méditerranée, la ville donne son nom à la wilaya dont elle est le chef-lieu.
+La ville d\'Alger est en fait constituée de plusieurs communes et n\'a ni personnalité juridique, ni structure d\'administration en propre.
+L\'unité urbaine d\'Alger comptait 2 481 788 habitants selon l\'Office national des statistiques algérien d\'après le dernier recensement de 20081.
+
+Avec 4,4 millions d\'habitants selon le ministère des Affaires étrangères français4,
+tandis que l\'agglomération en comptait environ 6 727 806 habitants en 2010 suivant le classement des 100 plus grandes villes du monde par World Gazetteer
+et 8 000 000 habitants en 2020 selon Population Data6, Alger est la première agglomération du Maghreb.
+
+Fondée au ive siècle av. J.-C., comme comptoir phénicien en pays berbère, sous le nom d\'Ikosim, elle est occupée par les Romains, les Vandales, les Byzantins
+ et les Arabes puis au début du Moyen Âge par la tribu berbère des Beni-Mezghana.
+C\'est le souverain berbère de la dynastie ziride Bologhine ibn Ziri, au milieu du xe siècle qui fondera l\'Alger actuelle,
+sous son nom El-Djazaïr ou Lezzayer, employé encore de nos jours pour la désigner en arabe et en berbère.
+Elle ne prend son rôle de capitale de l\'Algérie qu\'à partir de la période de la régence d\'Alger en 1515.
+Elle est alors une des cités les plus importantes de la mer Méditerranée entre le xvie siècle et le début du xixe siècle, pratiquant le corso,
+et à laquelle les puissances maritimes versent un impôt pour le passage de leur flotte.
+Son rôle de capitale du pays sera confirmé lors de la colonisation française où elle devient le siège du gouverneur général de l\'Algérie.
+Depuis l\'indépendance de l\'Algérie, en 1962, devenue capitale de l’État algérien,
+ elle abrite le siège des institutions politiques du pays en plus de tenir un rôle de premier plan économiquement.
+
+    </string>
+
+    <string name="siteAlger">http://www.apc-algercentre.dz/</string>
+</resources>
